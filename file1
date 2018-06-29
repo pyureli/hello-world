@@ -1,0 +1,12 @@
+
+
+
+print("Hello world!\n")
+
+
+b = 3
+c = 5
+a = b + c
+
+
+print("a - %a", a)
