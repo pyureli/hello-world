@@ -10,3 +10,9 @@ a = b + c
 
 
 print("a - %a", a)
+
+
+
+#Eto obichniy comment 
+
+d = a + a - b + c
